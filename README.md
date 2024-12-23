@@ -1,7 +1,7 @@
 # 🌟 **Roblox Hidden Gems** 🚀
 Discover the best hidden games on Roblox. Explore, play, and enjoy!  
 
-[![🤝 Contribute](https://img.shields.io/badge/Contribute-38b000?style=for-the-badge)](https://github.com/IntMarco/RobloxTreasures/pulls) [![📣 Report Issues](https://img.shields.io/badge/Report%20Issues-d90429?style=for-the-badge)](https://github.com/IntMarco/RobloxTreasures/issues)
+[![🤝 Contribute](https://img.shields.io/badge/Contribute-38b000?style=for-the-badge)](https://github.com/MbtMarco/RobloxTreasures/pulls) [![📣 Report Issues](https://img.shields.io/badge/Report%20Issues-d90429?style=for-the-badge)](https://github.com/MbtMarco/RobloxTreasures/issues)
 
 ---
 
