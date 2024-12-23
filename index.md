@@ -13,7 +13,7 @@ Discover the best hidden games on Roblox. Explore, play, and enjoy!
 
 ### 🎮 **Casual & Creative Games**
 | ![Pizza Game](https://tr.rbxcdn.com/71e2bb539bd8d13f4f87d6a517a89c98/768/432/Image/Webp) | ![Tiny Wheels](https://tr.rbxcdn.com/011f9fc127f3f0b8867eb435351c68f1/768/432/Image/Webp) | ![Volleyball X](https://tr.rbxcdn.com/180DAY-5044877008a3365b9806d27431300574/768/432/Image/Webp/noFilter) |
-|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|---|---|---|
 | [**Pizza Game**](https://www.roblox.com/games/16281075967) <br> _by @dodman531_ | [**Tiny Wheels**](https://www.roblox.com/games/5098630929) <br> _by @Drainhp_ | [**Volleyball X**](https://www.roblox.com/games/18196050689) <br> _by Project VB_ |
 | _Price: Free_ | _Price: Free_ | _Price: Free_ |
 
