@@ -1,9 +1,7 @@
-# ✨ **Hidden Treasures on Roblox** 🌟  
+# ✨ **Hidden Treasures on Roblox** 🌟
+Discover extraordinary games on Roblox, carefully selected for their creativity and immersive experiences. Click on the game title to explore it directly! 🚀 
 
-Discover extraordinary games on Roblox, carefully selected for their creativity and immersive experiences. Click on the game title to explore it directly! 🚀  
-
-[![📣 Report Issues](https://img.shields.io/badge/Report%20Issues-d90429?style=for-the-badge)](https://github.com/IntMarco/RobloxGems/issues)  
-[![🤝 Contribute](https://img.shields.io/badge/Contribute-38b000?style=for-the-badge)](https://github.com/IntMarco/RobloxGems/pulls)  
+[![🤝 Contribute](https://img.shields.io/badge/Contribute-38b000?style=for-the-badge)](https://github.com/IntMarco/RobloxGems/pulls) [![📣 Report Issues](https://img.shields.io/badge/Report%20Issues-d90429?style=for-the-badge)](https://github.com/IntMarco/RobloxGems/issues)  
 
 ---
 
